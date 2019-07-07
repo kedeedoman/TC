@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="error">Oops! Something went wrong, please try later.</string>
+    <string name="button_text">Get Data</string>
+    <string name="first_character">First Character</string>
+    <string name="word_frequency">Word Frequency</string>
+    <string name="x_10_characters">10X Characters</string>
+</resources>
